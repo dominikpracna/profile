@@ -3,7 +3,7 @@
 Welcome to my page, my name is Dominik and I'm a fresh alumni of Green Fox Academy. I'm specializing in full-stack and this is my progression in our after-course Huli program, where I'm sharpening my skills to become an even better candidate.
 
 ## Hire me
-LinkedIn: [(https://www.linkedin.com/in/dominik-pracna/)]
+LinkedIn: https://www.linkedin.com/in/dominik-pracna/
 
 Email: dominikpracna@gmail.com
 
